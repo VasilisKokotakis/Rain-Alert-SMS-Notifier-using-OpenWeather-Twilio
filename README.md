@@ -44,7 +44,7 @@ Never forget your umbrella again! ☔
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Rain-Alert-SMS-Notifier-using-OpenWeather-Twilio.git
+git clone https://github.com/VasilisKokotakis/Rain-Alert-SMS-Notifier-using-OpenWeather-Twilio.git
 cd Rain-Alert-SMS-Notifier-using-OpenWeather-Twilio
 ```
 
