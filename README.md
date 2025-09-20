@@ -123,7 +123,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ✨ Made with Python, ☁️ OpenWeather, and 📱 Twilio.
-
----
-
-Do you want me to also generate a **GitHub banner image (PNG/SVG with colors & icons)** you can put at the top instead of ASCII, so it looks more modern?
