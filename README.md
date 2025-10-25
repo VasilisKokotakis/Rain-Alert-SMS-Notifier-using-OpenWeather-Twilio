@@ -1,4 +1,4 @@
-# 🌦 Rain Alert SMS Notifier using OpenWeather & Twilio
+# Rain Alert SMS Notifier using OpenWeather & Twilio
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![OpenWeather](https://img.shields.io/badge/API-OpenWeather-orange?logo=openstreetmap)](https://openweathermap.org/forecast5)
@@ -6,11 +6,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This project checks the weather forecast using the **OpenWeather API** and sends you an **SMS alert via Twilio** if rain is expected.
-Never forget your umbrella again! ☔
+Never forget your umbrella again!
 
 ---
 
-## 📸 Demo
+## Demo
 
 > Example SMS:
 
@@ -20,16 +20,16 @@ Never forget your umbrella again! ☔
 
 ---
 
-## ⚙️ Features
+## Features
 
-* ✅ Fetches real-time weather data from [OpenWeather](https://openweathermap.org/forecast5)
-* ✅ Predicts upcoming rain (next few forecast hours)
-* ✅ Sends SMS notifications via [Twilio](https://www.twilio.com/)
-* ✅ Secure setup with environment variables (no hardcoding secrets)
+*  Fetches real-time weather data from [OpenWeather](https://openweathermap.org/forecast5)
+*  Predicts upcoming rain (next few forecast hours)
+*  Sends SMS notifications via [Twilio](https://www.twilio.com/)
+*  Secure setup with environment variables (no hardcoding secrets)
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -83,14 +83,14 @@ MY_LONG = 103.819839 # Example: Singapore longitude
 
 ---
 
-## 📡 APIs Used
+##  APIs Used
 
-* 🌍 [OpenWeather Forecast API](https://openweathermap.org/forecast5)
-* 📲 [Twilio SMS API](https://www.twilio.com/docs/sms)
+*  [OpenWeather Forecast API](https://openweathermap.org/forecast5)
+*  [Twilio SMS API](https://www.twilio.com/docs/sms)
 
 ---
 
-## 📌 To-Do / Ideas
+##  To-Do / Ideas
 
 * [ ] Add email notification support
 * [ ] Allow multiple recipients
@@ -99,17 +99,13 @@ MY_LONG = 103.819839 # Example: Singapore longitude
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-✨ Made with Python, ☁️ OpenWeather, and 📱 Twilio.
